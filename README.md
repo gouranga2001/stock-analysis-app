@@ -3,7 +3,7 @@ stock analysis using streamlit,yfinance,prep api you can see stock chart ,stock 
 
 make sure to download all the python modules before using.
 
-all modules are avilable on https://pypi.org/
+
 
 
 make sure to change the path of all the files accorrding to your system's reference
@@ -16,3 +16,4 @@ i am the free version of the api which allow only 200 request per day.You can ev
 
 
 lastly ----> to run the app open the terminal and run 'streamlit run main.py' make sure to run the main.py 
+
